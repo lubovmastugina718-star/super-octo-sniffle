@@ -5,3 +5,7 @@ Initial commit.
 ## Update
 
 Update .gitignore
+
+## Update
+
+Add error recovery
