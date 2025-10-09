@@ -9,3 +9,7 @@ Update .gitignore
 ## Update
 
 Add error recovery
+
+## Update
+
+Update API documentation
