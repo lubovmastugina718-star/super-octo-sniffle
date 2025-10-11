@@ -13,3 +13,7 @@ Add error recovery
 ## Update
 
 Update API documentation
+
+## Update
+
+Fix compatibility issue
