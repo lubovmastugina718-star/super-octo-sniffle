@@ -17,3 +17,7 @@ Update API documentation
 ## Update
 
 Fix compatibility issue
+
+## Update
+
+Add input validation
