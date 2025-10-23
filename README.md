@@ -21,3 +21,7 @@ Fix compatibility issue
 ## Update
 
 Add input validation
+
+## Update
+
+Fix data parsing
