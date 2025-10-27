@@ -25,3 +25,7 @@ Add input validation
 ## Update
 
 Fix data parsing
+
+## Update
+
+Improve error handling
