@@ -29,3 +29,7 @@ Fix data parsing
 ## Update
 
 Improve error handling
+
+## Update
+
+Fix memory leak
