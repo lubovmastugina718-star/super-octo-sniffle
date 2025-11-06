@@ -1,0 +1,3 @@
+interface controller {
+    value: string;
+}
