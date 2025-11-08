@@ -33,3 +33,7 @@ Improve error handling
 ## Update
 
 Fix memory leak
+
+## Update
+
+Fix security issue
