@@ -37,3 +37,7 @@ Fix memory leak
 ## Update
 
 Fix security issue
+
+## Update
+
+Update README with examples
