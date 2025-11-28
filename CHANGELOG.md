@@ -7,3 +7,5 @@ Update environment variables
 ```
 code example
 ```
+
+# Improve error handling
