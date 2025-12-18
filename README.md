@@ -41,3 +41,7 @@ Fix security issue
 ## Update
 
 Update README with examples
+
+## Update
+
+Update environment variables
