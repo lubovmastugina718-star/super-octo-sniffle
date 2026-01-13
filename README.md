@@ -45,3 +45,7 @@ Update README with examples
 ## Update
 
 Update environment variables
+
+## Update
+
+Add retry logic
